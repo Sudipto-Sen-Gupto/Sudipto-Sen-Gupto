@@ -6,6 +6,11 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
+### 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript, React, Tailwind CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Tools: Git, GitHub, Firebase, Vercel
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
