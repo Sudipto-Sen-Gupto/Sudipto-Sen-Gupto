@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sudipto</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudipto-sen-gupto&label=Profile%20views&color=0e75b6&style=flat" alt="sudipto-sen-gupto" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudipto-sen-gupto" alt="sudipto-sen-gupto" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
