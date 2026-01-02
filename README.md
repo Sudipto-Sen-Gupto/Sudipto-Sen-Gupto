@@ -16,6 +16,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudipto-sen-gupto&show_icons=true&locale=en" alt="sudipto-sen-gupto" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudipto-sen-gupto&" alt="sudipto-sen-gupto" /></p>
