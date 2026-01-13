@@ -32,17 +32,7 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudipto-Sen-Gupto&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudipto-Sen-Gupto&theme=tokyonight" height="170"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudipto-Sen-Gupto&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ### 🚀 Current Focus
 - 🔨 Building **real-world MERN projects**
@@ -76,6 +66,18 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudipto-Sen-Gupto&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudipto-Sen-Gupto&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudipto-Sen-Gupto&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
