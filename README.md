@@ -1,42 +1,85 @@
-<h1 align="center">Hi 👋, I'm Sudipto</h1>
-<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Sudipto Sen Gupta</h1>
+<h3 align="center">🚀 Passionate MERN Stack Developer from Bangladesh 🇧🇩</h3>
 
-
- <div>
-
-   <img src="https://i.ibb.co.com/C5V1wKC9/Sudipto-Sen-Gupto.png" >
- </div>
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-### 🛠️ Tech Stack
-- Frontend: HTML, CSS, JavaScript, React, Tailwind CSS
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- Tools: Git, GitHub, Firebase, Vercel
-
-### 📌 Current Focus
-- Building MERN stack projects
-- Writing clean & readable code
-- Learning best practices in React
-- Improving problem-solving skills
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sudipto-sen-gupto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sudipto-sen-gupto/" height="30" width="40" /></a>
-<a href="https://fb.com/https:https://www.facebook.com/gaurav.sengupto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https:https://www.facebook.com/gaurav.sengupto/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://i.ibb.co.com/C5V1wKC9/Sudipto-Sen-Gupto.png" width="200" style="border-radius:50%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=header"/>
+</p>
 
+---
 
+### 👨‍💻 About Me
+- 🎓 **BSc in Computer Science & Engineering**
+- 💻 **MERN Stack Developer** (MongoDB, Express, React, Node)
+- 🌱 Currently learning **Advanced React & Best Practices**
+- 🎯 Goal: Build **scalable & user-friendly web applications**
+- 📍 Based in **Bangladesh**
 
+---
 
+### 🛠️ Tech Stack
+**Frontend:**  
+`HTML` `CSS` `JavaScript` `React` `Tailwind CSS`
 
+**Backend:**  
+`Node.js` `Express.js`
 
+**Database & Tools:**  
+`MongoDB` `Firebase` `Git` `GitHub` `Vercel`
 
+---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudipto-Sen-Gupto&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudipto-Sen-Gupto&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudipto-Sen-Gupto&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 🚀 Current Focus
+- 🔨 Building **real-world MERN projects**
+- 🧠 Writing **clean, readable & maintainable code**
+- ⚛️ Mastering **React performance & patterns**
+- 🧩 Improving **problem-solving & DSA**
+
+---
+
+### 🤝 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/sudipto-sen-gupto/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+  <a href="https://www.facebook.com/gaurav.sengupto/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+  </a>
+</p>
+
+---
+
+### 🧰 Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+</p>
+
+---
+
+<p align="center">
+  💡 <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
