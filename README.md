@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudipto Sen Gupta</h1>
-<h3 align="center">🚀 Passionate MERN Stack Developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">🚀 Passionate MERN Stack Developer from Bangladesh</h3>
 
 <p align="center">
   <img src="https://i.ibb.co.com/C5V1wKC9/Sudipto-Sen-Gupto.png" width="200" style="border-radius:50%" />
